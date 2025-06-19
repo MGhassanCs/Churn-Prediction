@@ -192,3 +192,10 @@ cython_debug/
 #  refer to https://docs.cursor.com/context/ignore-files
 .cursorignore
 .cursorindexingignore
+
+# Project-specific ignores
+models/
+outputs/
+*.joblib
+*.png  # if you save plots
+*.csv  # if you export processed data
