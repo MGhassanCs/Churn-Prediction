@@ -1,0 +1,11 @@
+# Python >=3.9 required
+pandas
+numpy
+scikit-learn
+xgboost
+lightgbm
+catboost
+matplotlib
+seaborn
+joblib
+pytest  # for testing
